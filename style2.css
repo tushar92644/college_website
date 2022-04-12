@@ -1,0 +1,18 @@
+html,
+body {
+    margin: 0%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.nav{
+    background: white;
+    padding: 0 2rem;
+    height:0rem;
+    min-height: 10vh;
+}
+.nav.nav-brand a{
+    font-size: 1.6rem
+        padding:1rem 0;
+    text-decoration: none;
+}
